@@ -8,7 +8,7 @@ Instrucciones:
 
 1. Descargar y descomprimir el archivo.
 
-2. Si estan en un servidor local, ejecutar la aplicacion con http://localhost/nombre-de-tu-aplicacion/
+2. Si estan en un servidor local, ejecutar la aplicacion con http://localhost/tutorial-de-elementor/
 
 3. Ejecutar el archivo installer.php
 
