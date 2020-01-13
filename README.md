@@ -13,3 +13,7 @@ Instrucciones:
 4. Siga las instrucciones en mi canal de youtube en el siguiente video:
 
 https://www.youtube.com/channel/UCU589F2Me9ecX6YV2ioHa6g
+
+Listo!.
+
+Suscribete a mi canal!.
