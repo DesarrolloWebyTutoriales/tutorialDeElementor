@@ -1,6 +1,6 @@
 # Tutorial de Elementor
 
-![Image of screenshot](https://github.com/DesarrolloWebyTutoriales/tutorialDeElementor/blob/master/images/screenshot.jpg)
+![Image of screenshot](https://github.com/DesarrolloWebyTutoriales/tutorialDeElementor/blob/master/images/screenshot.png)
 
 Aqui dejo los archivos para que instalen el backup de la plantilla generado por el plugin Duplicator
 
