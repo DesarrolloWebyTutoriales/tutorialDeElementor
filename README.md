@@ -10,7 +10,9 @@ Instrucciones:
 
 2. Si estan en un servidor local, ejecutar la aplicacion con http://localhost/tutorial-de-elementor/
 
-3. Ejecutar el archivo installer.php
+3. Ejecutar el archivo installer.php de esta manera:
+
+http://localhost/tutorial-de-elementor/installer.php
 
 4. Siga las instrucciones en mi canal de youtube en el siguiente video:
 
